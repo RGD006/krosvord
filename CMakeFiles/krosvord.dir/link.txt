@@ -1,0 +1,3 @@
+E:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\krosvord.dir/objects.a
+E:\Qt\Tools\mingw810_64\bin\ar.exe qc CMakeFiles\krosvord.dir/objects.a @CMakeFiles\krosvord.dir\objects1.rsp
+E:\Qt\Tools\mingw810_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\krosvord.dir/objects.a -Wl,--no-whole-archive -o krosvord.exe -Wl,--out-implib,libkrosvord.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\krosvord.dir\linklibs.rsp

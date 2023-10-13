@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+d97228c3122fcbf56311dc943d0be05e CMakeFiles/krosvord_autogen

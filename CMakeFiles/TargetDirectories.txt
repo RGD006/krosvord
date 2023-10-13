@@ -1,0 +1,4 @@
+F:/Projects/Qt/build-krosvord-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/krosvord.dir
+F:/Projects/Qt/build-krosvord-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/Projects/Qt/build-krosvord-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/Projects/Qt/build-krosvord-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/krosvord_autogen.dir
